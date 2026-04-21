@@ -1,0 +1,20 @@
+{
+  "name": "api-fetcher-wrapper",
+  "version": "1.0.0",
+  "description": "A lightweight JS fetch wrapper with built-in retry logic, timeouts, and auth handling.",
+  "main": "src/ApiFetcher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fetch",
+    "http",
+    "api",
+    "wrapper",
+    "axios-alternative",
+    "retries",
+    "timeout"
+  ],
+  "author": "Ahmar Hussain",
+  "license": "MIT"
+}
